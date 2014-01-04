@@ -1,0 +1,5 @@
+node_modules/
+app/assets/css/style.css
+app/assets/javascripts/app.js
+app/assets/javascripts/libs.js
+app/assets/javascripts/templates.js

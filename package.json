@@ -1,0 +1,15 @@
+{
+  "name": "ember_in_depth_tutorial",
+  "description": "Walking through Ember tutorial",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-ember-handlebars": "~0.7.0",
+    "handlebars": "~1.3.0",
+    "ember-template-compiler": "~1.3.0-beta.4",
+    "grunt-ember-templates": "~0.4.18",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-sass": "~0.6.0"
+  }
+}
